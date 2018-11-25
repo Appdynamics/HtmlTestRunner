@@ -1,8 +1,9 @@
 from __future__ import print_function
-import copy
+
 import os
 import sys
 import time
+import copy
 import traceback
 from unittest import TestResult, TextTestResult
 from unittest.result import failfast
